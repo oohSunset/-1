@@ -1,0 +1,7 @@
+D:\唐老师VS项目\CSharp进阶实践项目（俄罗斯方块）\CSharp进阶实践项目（俄罗斯方块）\bin\Debug\CSharp进阶实践项目（俄罗斯方块）.exe.config
+D:\唐老师VS项目\CSharp进阶实践项目（俄罗斯方块）\CSharp进阶实践项目（俄罗斯方块）\bin\Debug\CSharp进阶实践项目（俄罗斯方块）.exe
+D:\唐老师VS项目\CSharp进阶实践项目（俄罗斯方块）\CSharp进阶实践项目（俄罗斯方块）\bin\Debug\CSharp进阶实践项目（俄罗斯方块）.pdb
+D:\唐老师VS项目\CSharp进阶实践项目（俄罗斯方块）\CSharp进阶实践项目（俄罗斯方块）\obj\Debug\CSharp进阶实践项目（俄罗斯方块）.csproj.AssemblyReference.cache
+D:\唐老师VS项目\CSharp进阶实践项目（俄罗斯方块）\CSharp进阶实践项目（俄罗斯方块）\obj\Debug\CSharp进阶实践项目（俄罗斯方块）.csproj.CoreCompileInputs.cache
+D:\唐老师VS项目\CSharp进阶实践项目（俄罗斯方块）\CSharp进阶实践项目（俄罗斯方块）\obj\Debug\CSharp进阶实践项目（俄罗斯方块）.exe
+D:\唐老师VS项目\CSharp进阶实践项目（俄罗斯方块）\CSharp进阶实践项目（俄罗斯方块）\obj\Debug\CSharp进阶实践项目（俄罗斯方块）.pdb
